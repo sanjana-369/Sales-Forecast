@@ -1,4 +1,5 @@
 # customer-segmentation
+
 Project Title: Customer Segmentation for Targeted Marketing. 
 Objective: Segment customer base for tailored strategies.
 Approach: Analyze data, define criteria, create segments. 
